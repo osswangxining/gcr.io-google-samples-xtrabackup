@@ -1,1 +1,1 @@
-FROM gcr.io/google-samples/xtrabackup:1.0
+FROM gcr.io/istio-testing/examples-bookinfo-ratings-v2:0.2.8
